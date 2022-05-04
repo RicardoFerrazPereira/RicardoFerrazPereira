@@ -1,9 +1,8 @@
-## Olá!  Eu sou Ricardo Ferraz 
 
-
-- 🌱 Residente Desenvolvedor Full Stack Serratec/Senai
-
-
+<div align="center">
+<h2>Olá!  Eu sou Ricardo!</h2><br/>
+Sou residente no Serratec/Senai em Desenvolvedor Full Stack
+</div>
 
 <div align="center">
 <a href="https://github.com/RicardoFerrazPereira">
