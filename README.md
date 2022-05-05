@@ -1,7 +1,7 @@
 ## Olá!  Eu sou Ricardo, um amante de tecnologia e programação.</br>
 <div align="center">
   Sou residente no curso de Desenvolvedor Full Stack do Serratec/Senai
-    <!-- <h2>Olá!  Eu sou Ricardo!</h2><br/> -->
+    
 </div>
 
 ###
@@ -35,10 +35,10 @@
  <!--   <a href="https://www.instagram.com/ricardo_sour/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
  
 ###
-
- ![Snake animation](https://github.com/ricardoferrazpereira/ricardoferraz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ricardoferrazpereira/ricardoferraz/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ricardoferrazpereira/ricardoferraz/blob/output/github-contribution-grid-snake.svg) -->
    
- ![](https://komarev.com/ghpvc/?username=ricardferrazpereira&color=blueviolet)  
+<!--  ![](https://komarev.com/ghpvc/?username=ricardferrazpereira&color=blueviolet)   -->
    
 </div>
 
