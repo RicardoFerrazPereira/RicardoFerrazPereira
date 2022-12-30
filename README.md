@@ -1,7 +1,6 @@
+## Olá!  Eu sou Ricardo, desenvolvedor Full Stack e um amante de tecnologia e programação.</br>
 <div align="center">
-## Olá!  Eu sou Ricardo, um amante de tecnologia e programação.</br>
-
-  Sou Desenvolvedor Full Stack 
+   
     
 </div>
 
