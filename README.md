@@ -1,6 +1,7 @@
-## Olá!  Eu sou Ricardo, um amante de tecnologia e programação.</br>
 <div align="center">
-  Sou residente no curso de Desenvolvedor Full Stack do Serratec/Senai
+## Olá!  Eu sou Ricardo, um amante de tecnologia e programação.</br>
+
+  Sou Desenvolvedor Full Stack 
     
 </div>
 
