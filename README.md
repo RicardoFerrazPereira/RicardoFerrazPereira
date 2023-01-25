@@ -1,7 +1,8 @@
 
  
- ## Olá, Seja Bem-vindo!  
-
+ ## Olá! Sou o Ricardo, seja Bem-vindo(a)!  
+<div align="center">Desenvolvedor Full Stack
+ </div>
 
 ###
 
