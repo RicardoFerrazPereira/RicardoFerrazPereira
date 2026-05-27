@@ -1,49 +1,235 @@
+# README de Perfil GitHub — Ricardo Ferraz
 
- 
- ## Olá! Sou o Ricardo, seja Bem-vindo(a)!  
-<div align="center">Desenvolvedor Full Stack
- </div>
+# Olá, eu sou Ricardo Ferraz 👋
 
-###
+## Data Analyst | Data Engineer | Python & AI Automation
 
-<div align="center">
-<a href="https://github.com/RicardoFerrazPereira">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=RicardoFerrazPereira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFerrazPereira&layout=compact&langs_count=7&theme=github_dark"/>
-</div>  
-  
-  
-<div style="display: inline_block"><br>
+Atuo com análise de dados, engenharia de dados, automação com Python e soluções orientadas a dados.
 
-<img align="center" alt="Ricardo-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img align="center" alt="Ricardo-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="center" alt="Ricardo-Mysql" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="center" alt="Ricardo-Mysql" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="Ricardo-Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="center" alt="Ricardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--<img align="center" alt="Ricardo-Bootstrap" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-<img align="center" alt="Ricardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
-<img align="center" alt="Ricardo-php" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> 
-<img align="center" alt="Ricardo-Spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">-->
+Minha trajetória começou no desenvolvimento web full stack, trabalhando com backend, bancos de dados, APIs e manutenção de sistemas. Com o tempo, evoluí minha carreira para o universo de dados, ETL, analytics, automação e inteligência artificial aplicada.
 
+Hoje meu foco está em:
 
-<!--<img align="center" alt="Ricardo-Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> -->
-<!--<img align="center" alt="Ricardo-Postgresql" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"> -->
-<img align="center" alt="Ricardo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+* Análise de Dados
+* Engenharia de Dados
+* ETL e pipelines
+* Automação com Python
+* Dashboards e BI
+* APIs e integrações
+* AWS
+* Agentes de IA e automações inteligentes
 
+---
 
-</div>
-  
- ##
-  
- <div>
- <a href = "mailto:sourprog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/ricardo-ferraz-pereira-49b01ba3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <!--   <a href="https://www.instagram.com/ricardo_sour/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
- 
-###
-   
-</div>
+# 🚀 Sobre mim
 
+Sou apaixonado por tecnologia, dados e automação.
+
+Tenho experiência prática trabalhando com:
+
+* SQL e bancos relacionais
+* Desenvolvimento backend com PHP
+* APIs RESTful
+* Processos ETL
+* Dashboards Power BI
+* Automação de tarefas com Python
+* Integrações entre sistemas
+* AWS (S3, Lambda, Athena, CloudFormation)
+* Docker
+* Manipulação e análise de dados com Pandas
+
+Atualmente estou expandindo meus conhecimentos em:
+
+* Engenharia de Dados
+* Inteligência Artificial
+* Agentes Autônomos com IA
+* Automação com n8n
+* Analytics Engineering
+
+Meu objetivo é construir soluções que automatizem processos, transformem dados em insights e gerem valor real para negócios.
+
+---
+
+# 🛠️ Tecnologias e Ferramentas
+
+## Linguagens
+
+* Python
+* SQL
+* PHP
+* JavaScript
+* HTML
+* CSS
+
+## Dados e Analytics
+
+* Pandas
+* Power BI
+* Metabase
+* MySQL
+* MariaDB
+* ETL
+* Data Cleaning
+* Data Visualization
+* Data Analysis
+
+## Backend e APIs
+
+* REST APIs
+* Composer
+* Springy
+* Axios
+* Fetch API
+* AJAX
+
+## Infraestrutura e Cloud
+
+* Docker
+* AWS S3
+* AWS Lambda
+* AWS Athena
+* AWS CloudFormation
+* Git
+* GitHub
+
+## Automação e IA
+
+* Python Automation
+* Telegram Bots
+* n8n
+* AI Agents
+* Workflow Automation
+
+---
+
+# 📊 Projetos em Destaque
+
+## 📈 Marketing Campaign Analysis
+
+Projeto de análise de dados de marketing com dashboard interativo utilizando Power BI.
+
+### Principais análises:
+
+* Performance de campanhas
+* Conversão de clientes
+* Receita
+* ROI
+* Segmentação
+* KPIs estratégicos
+
+### Tecnologias:
+
+* Power BI
+* SQL
+* Data Analysis
+
+---
+
+## 💼 Sales Performance Dashboard
+
+Dashboard voltado para análise comercial e performance de vendas.
+
+### Principais análises:
+
+* Receita
+* Ticket médio
+* Produtos mais vendidos
+* Performance comercial
+* Indicadores estratégicos
+
+### Tecnologias:
+
+* Power BI
+* SQL
+* Data Visualization
+
+---
+
+## ⚽ Vasco Data Analytics Project
+
+Projeto completo focado em análise de dados esportivos do Vasco da Gama.
+
+### Objetivos:
+
+* Estatísticas do clube
+* Desempenho de jogadores
+* Dados históricos
+* Visualizações
+* Coleta automatizada de dados
+* Engenharia de dados aplicada ao futebol
+
+### Tecnologias:
+
+* Python
+* Pandas
+* Web Scraping
+* APIs
+* Data Analysis
+
+---
+
+## 🤖 Python Automation Projects
+
+Projetos de automação utilizando Python para otimização de tarefas e processos.
+
+### Exemplos:
+
+* Geração automática de relatórios
+* Integração entre sistemas
+* Manipulação de dados
+* Bots e automações
+* Processos ETL
+
+---
+
+# 📚 Atualmente estudando
+
+* Engenharia de Dados
+* Inteligência Artificial
+* Agentes Autônomos
+* n8n
+* Arquitetura de soluções com IA
+* Analytics Engineering
+
+---
+
+# 🎯 Objetivos Profissionais
+
+Meu objetivo é atuar cada vez mais em projetos envolvendo:
+
+* Engenharia de Dados
+* Analytics Engineering
+* Automação Inteligente
+* IA aplicada a negócios
+* Soluções com agentes autônomos
+* Plataformas orientadas a dados
+
+Busco construir soluções escaláveis que unam:
+
+* Dados
+* Automação
+* Inteligência Artificial
+* Backend
+* Cloud
+
+---
+
+# 🌎 Onde me encontrar
+
+## LinkedIn
+
+Adicione seu LinkedIn aqui
+
+## GitHub
+
+[https://github.com/RicardoFerrazPereira](https://github.com/RicardoFerrazPereira)
+
+## Email
+
+Adicione seu email profissional aqui
+
+---
+
+# ⭐ Filosofia
+
+"Transformar dados em decisões e automações em soluções reais."
