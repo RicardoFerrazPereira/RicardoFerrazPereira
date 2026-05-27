@@ -1,23 +1,10 @@
-# README de Perfil GitHub — Ricardo Ferraz
-
 # Olá, eu sou Ricardo Ferraz 👋
 
 ## Data Analyst | Data Engineer | Python & AI Automation
 
-Atuo com análise de dados, engenharia de dados, automação com Python e soluções orientadas a dados.
+Atuo com análise de dados, engenharia de dados, agentes de IA, automações inteligentes com Python e soluções orientadas a dados.
 
 Minha trajetória começou no desenvolvimento web full stack, trabalhando com backend, bancos de dados, APIs e manutenção de sistemas. Com o tempo, evoluí minha carreira para o universo de dados, ETL, analytics, automação e inteligência artificial aplicada.
-
-Hoje meu foco está em:
-
-* Análise de Dados
-* Engenharia de Dados
-* ETL e pipelines
-* Automação com Python
-* Dashboards e BI
-* APIs e integrações
-* AWS
-* Agentes de IA e automações inteligentes
 
 ---
 
@@ -31,14 +18,14 @@ Tenho experiência prática trabalhando com:
 * Desenvolvimento backend com PHP
 * APIs RESTful
 * Processos ETL
-* Dashboards Power BI
+* Dashboards Power BI & Metabase
 * Automação de tarefas com Python
 * Integrações entre sistemas
 * AWS (S3, Lambda, Athena, CloudFormation)
 * Docker
 * Manipulação e análise de dados com Pandas
 
-Atualmente estou expandindo meus conhecimentos em:
+Atualmente também estou focado em automação inteligente e desenvolvimento de agentes autônomos com IA, utilizando ferramentas como Python, APIs, n8n e workflows orientados a IA. Estou expandindo meus conhecimentos em:
 
 * Engenharia de Dados
 * Inteligência Artificial
@@ -49,6 +36,62 @@ Atualmente estou expandindo meus conhecimentos em:
 Meu objetivo é construir soluções que automatizem processos, transformem dados em insights e gerem valor real para negócios.
 
 ---
+
+# 🛠️ Tech Stack
+
+
+## 📊 Data & Analytics
+
+<div align="center">
+
+<img align="center" alt="Python" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+<img align="center" alt="Pandas" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+
+<img align="center" alt="SQL" height="45" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+
+<img align="center" alt="PostgreSQL" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<img align="center" alt="MySQL" height="60" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+<img align="center" alt="Power BI" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" />
+
+</div>
+
+
+
+## ☁️ Cloud & Infrastructure
+
+<div align="center">
+
+<img align="center" alt="Docker" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+<img align="center" alt="AWS" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+
+<img align="center" alt="Linux" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<img align="center" alt="Git" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+
+<img align="center" alt="GitHub" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+</div>
+
+
+
+## 🤖 Automation & AI
+
+<div align="center">
+
+<img align="center" alt="n8n" height="50" style="margin:10px;" hspace="10" src="https://cdn.simpleicons.org/n8n" />
+
+<img align="center" alt="Python Automation" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+<img align="center" alt="API" height="50" style="margin:10px;" hspace="10" src="https://cdn.simpleicons.org/fastapi" />
+
+<img align="center" alt="OpenAI" height="50" style="margin:10px;" hspace="10" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" />
+
+</div>
+
 
 # 🛠️ Tecnologias e Ferramentas
 
@@ -216,17 +259,16 @@ Busco construir soluções escaláveis que unam:
 
 # 🌎 Onde me encontrar
 
-## LinkedIn
-
-Adicione seu LinkedIn aqui
-
-## GitHub
-
-[https://github.com/RicardoFerrazPereira](https://github.com/RicardoFerrazPereira)
-
-## Email
-
-Adicione seu email profissional aqui
+##
+  
+ <div>
+ <a href = "mailto:sourprog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/ricardo-ferraz-pereira-49b01ba3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <!--   <a href="https://www.instagram.com/ricardo_sour/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+ 
+###
+   
+</div>
 
 ---
 
