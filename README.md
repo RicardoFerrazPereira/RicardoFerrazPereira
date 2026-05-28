@@ -1,6 +1,6 @@
 # Olá, eu sou Ricardo Ferraz 👋
 
-## Data Analyst | Data Engineer | Python & AI Automation
+## Data Analyst | Data Engineer | AI Automation
 
 Atuo com análise de dados, engenharia de dados, agentes de IA, automações inteligentes com Python e soluções orientadas a dados.
 
@@ -128,10 +128,7 @@ Meu objetivo é construir soluções que automatizem processos, transformem dado
 ## Infraestrutura e Cloud
 
 * Docker
-* AWS S3
-* AWS Lambda
-* AWS Athena
-* AWS CloudFormation
+* AWS Serviços
 * Git
 * GitHub
 
@@ -144,7 +141,7 @@ Meu objetivo é construir soluções que automatizem processos, transformem dado
 * Workflow Automation
 
 ---
-
+<!--
 # 📊 Projetos em Destaque
 
 ## 📈 Marketing Campaign Analysis
@@ -224,7 +221,7 @@ Projetos de automação utilizando Python para otimização de tarefas e process
 * Processos ETL
 
 ---
-
+-->
 # 📚 Atualmente estudando
 
 * Engenharia de Dados
@@ -259,8 +256,6 @@ Busco construir soluções escaláveis que unam:
 
 # 🌎 Onde me encontrar
 
-##
-  
  <div>
  <a href = "mailto:sourprog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/ricardo-ferraz-pereira-49b01ba3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
